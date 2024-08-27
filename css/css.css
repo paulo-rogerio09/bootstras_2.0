@@ -1,0 +1,33 @@
+.noite{
+    width: 90px;
+    height: 90px;
+}
+.topo{
+    display: flex;
+    margin: auto;
+    align-items: center;
+}
+header{
+    background-color: aqua;
+    position: sticky;
+    top: 0px;
+    width: 100%;
+}
+.opcoes{
+    margin-left: auto;
+}
+.opcoes ul{
+    list-style: none;
+}
+.opcoes ul li{
+    display: inline;
+    font-size: 1.3em;
+    padding: 15px;
+}
+.opcoes ul li a{
+   text-decoration: none;
+   color: black;
+}
+.margem{
+    margin-top: 100px;
+}
